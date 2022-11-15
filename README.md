@@ -1,4 +1,4 @@
-# Instagram - Clone
+# Instagram - Clone (5회차 목표)
 
 ##  구현내용
 
